@@ -80,6 +80,7 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
     @Preview
     @Composable
     fun PreviewConversation() {
